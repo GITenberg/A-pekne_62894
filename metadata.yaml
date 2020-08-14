@@ -1,5 +1,8 @@
 _repo: A-pekne_62894
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Szomory, Dezső
@@ -12,6 +15,8 @@ creator:
     - https://hu.wikipedia.org/wiki/Szomory_Dezs%C5%91
     - https://en.wikipedia.org/wiki/Dezs%C5%91_Szomory
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62894#A-pekne
 gutenberg_issued: '2020-08-09'
 gutenberg_type: Text
 identifiers:
